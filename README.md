@@ -5,9 +5,7 @@ jump right in to the adventure!
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-Nothing technical here. This is my first original data science project outside of online certifications. The inspiration 
-came from my history of learning Japanese. I'm not much of a textbook learner, so when I set off on this incredibly 
-rewarding adventure, I made one rule for myself: If it's not fun, stop doing it.
+Nothing technical here. This is my first original data science project outside of online certifications, so I wanted a place to share my progress. The inspiration came from my history of learning Japanese. I'm not much of a textbook learner, so when I set off on this incredibly rewarding adventure, I made one rule for myself: If it's not fun, stop doing it.
 
 So whether it was watching a show, reading manga, or practicing kanji strokes, if I got bored, I stopped and moved on to 
 something else. I noticed that I would get the most bored/frustrated when reading a manga or watching an anime where I had to 
